@@ -1,5 +1,5 @@
 **后端：golang + mysql + gin + gorm**
-**前端：vuejs3 + axios + TypeScript + element-plus**  
+**前端：vuejs3 + axios + TypeScript + element-plus** 
 
 包结构
 ```
