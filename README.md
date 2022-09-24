@@ -1,7 +1,7 @@
-**后端：golang + mysql + gin + gorm**
-**前端：vuejs3 + axios + TypeScript + element-plus**  
+**backend：golang + mysql + gin + gorm**
+**frontend：vuejs3 + axios + TypeScript + element-plus**  
 
-包结构 
+struct
 ```
 |-api
 |-dao
